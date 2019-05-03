@@ -1,0 +1,26 @@
+# Windows image file caches
+
+# Folder config file
+Desktop.ini
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+.DS_Store
+
+# Thumbnails
+._*
+
+
+# Python:
+*.py[cod]
+*.pyc
+*.so
+*.egg
+*.egg-info
+build
